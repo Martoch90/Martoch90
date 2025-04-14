@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning at EPITECH<br>🎯 Goals: An AI developer who is our friends of tomorrow</p>
+<p align="left">📚 I'm currently learning at EPITECH<br>🎯 Goals: An AI developer who is our friends of tomorrow, like our friends, dogs.</p>
 
 ###
 
